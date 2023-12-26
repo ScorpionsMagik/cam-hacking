@@ -1,7 +1,6 @@
 
-#!/usr/bin/env python3
-#-*- coding: utf-8 -*-
-#github.com/AngelSecurityTeam/Cam-Hackers
+#use python3
+
 
 import requests, re , colorama ,random 
 from requests.structures import CaseInsensitiveDict
